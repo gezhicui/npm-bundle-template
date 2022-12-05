@@ -1,6 +1,6 @@
 # npm-bundle-template
 
-build npm package both support for cjs and esm by tsc, rollup, webpack, esbuid
+build npm package both support for `cjs` and `esm` by **tsc, rollup, webpack, esbuid**
 
 ```js
 // branch esbuild
