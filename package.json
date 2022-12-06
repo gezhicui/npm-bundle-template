@@ -1,7 +1,6 @@
 {
-  "name": "getting-started-using-a-configuration",
+  "name": "webpack-bundle-template",
   "version": "1.0.0",
-  "private": true,
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "scripts": {
