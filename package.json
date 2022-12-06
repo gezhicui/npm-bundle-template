@@ -1,5 +1,5 @@
 {
-  "name": "esbuild-lib",
+  "name": "esbuild-bundle-template",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.cjs.js",
@@ -12,8 +12,5 @@
   "license": "ISC",
   "devDependencies": {
     "esbuild": "^0.14.49"
-  },
-  "dependencies": {
-    "lodash.clonedeep": "^4.5.0"
   }
 }
